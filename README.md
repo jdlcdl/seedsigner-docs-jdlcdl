@@ -1,3 +1,5 @@
+[![](https://github.com/jdlcdl.png?size=40)](https://github.com/search?repo=SeedSigner/seedsigner)
+
 # Build an offline, airgapped Bitcoin signing device for less than $50!
 
 ![Image of SeedSigners in Open Pill Enclosures](docs/img/Open_Pill_Star.JPG)![Image of SeedSigner in an Orange Pill enclosure](docs/img/Orange_Pill.JPG)
